@@ -28,7 +28,14 @@ Un double lien "through" permet d'avoir tous les promeneurs d'un chien
 Seuls les chiens de la même ville que le Dogsitter peuvent rejoindre
 une ballade de ce dogsitter.
 
+### gossip project
+
+On est allé jusqu'aux private messages,
+avec alias de colonnes
+pour différencier l'expéditeur et le destinataire,
+mais pas plus loin car il est 23h58 
+
 ## la team
 
-- Guillaume Silvent
-- Anis Bouhouche
+- Guillaume Silvent @gui3
+- Anis Bouhouche @Anis
