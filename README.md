@@ -10,10 +10,12 @@ un petit `git clone https://github.com/thp-grenobles8/s04.4.viva.la.selma`
 
 un petit `cd `dans chaque dossier, suivi d'un `bundle install`
 
+**ON OUBLIE PAS** `rails db:migrate`
+
 tu peux relancer les seeds avec `rails db:seed`, de jolis **puts**
 te permettrons de suivre l'avancement du seed.
 
-après ça, joue avec les données dans la `rails console`
+après ça, joue avec les données dans la `rails console` et `tp Table.all.sample.relation`
 
 ### free_doctor
 
